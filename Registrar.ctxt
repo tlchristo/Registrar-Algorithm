@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Registrar
+comment1.params=
+comment1.target=Registrar()
+comment1.text=\n\ Constructor\ loads\ all\ files,\ and\ runs\ the\ algorithm\ for\ preregistration\ and\ \n\ prints\ the\ results.\n
+numComments=2
